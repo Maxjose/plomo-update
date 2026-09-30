@@ -2,9 +2,5 @@
   "schema": 1,
   "mod": "plomo",
   "version": "1.6.0",
-  "jar": {
-    "url": "https://github.com/Maxjose/plomo-update/releases/download/v1.6.0/plomo-1.6.0.jar",
-    "size": 44334448,
-    "sha256": "ca954152c246028c8396fb4eadf493097814c562f83d2c0a8b3ebe92de6f8562"
-  }
+  "jar": null
 }
